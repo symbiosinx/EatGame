@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Geometry
+  - Player
+  - Enemy
+  - Walls
+  - PostProcessing
   - 
   - 
   - 
